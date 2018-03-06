@@ -1,0 +1,6 @@
+1. How to check whether program that counts words works properly?
+  ~ Open tested file in stable editor with function which counts words.
+
+2. Which input data can be good to find errors?
+  ~ To find errors the best input will be data which will use only one type of
+    program functionality. After that test You can focus on other functionalities.
